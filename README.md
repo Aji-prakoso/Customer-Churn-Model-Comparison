@@ -26,10 +26,10 @@ The notebook likely covers the following steps:
 
 The project successfully built a churn prediction model with the following performance indicators (actual values would be from the notebook's execution):
 
-* **Accuracy:** The overall accuracy of the model is 80.62%, indicating its general correctness in predictions.
-* **Recall:** The model correctly identifies 56% of actual churners, which is crucial for not missing potential churn customers.
-* **Precision:** Of the customers predicted to churn, 66% actually will churn, showing the reliability of positive churn predictions.
-* **ROC-AUC Score:** The model achieved an ROC-AUC score of 84.18%, demonstrating its ability to distinguish between churners and non-churners across various thresholds.
+* **Accuracy:** The overall accuracy of the model is `80.62%`, indicating its general correctness in predictions.
+* **Recall:** The model correctly identifies `56%` of actual churners, which is crucial for not missing potential churn customers.
+* **Precision:** Of the customers predicted to churn, `66%` actually will churn, showing the reliability of positive churn predictions.
+* **ROC-AUC Score:** The model achieved an ROC-AUC score of `84.18%`, demonstrating its ability to distinguish between churners and non-churners across various thresholds.
 
 These results provide valuable insights for prioritizing retention efforts and allocating resources effectively.
 
