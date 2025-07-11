@@ -14,7 +14,7 @@ This project aims to develop a supervised classification model to predict custom
 
 ## Methodology (Inferred from Goals)
 
-The notebook likely covers the following steps:
+This research likely covers the following steps:
 * **Data Preprocessing:** Cleaning and preparing the customer dataset.
 * **Feature Engineering:** Creating relevant features for the model.
 * **Model Selection & Training:** Choosing and training suitable classification algorithms.
